@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsFE", "Parcial4PlanissigKarol\FormsFE.csproj", "{34B972F3-0EDC-4FC2-A38D-725785009B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesBA", "Clases.BA\ClasesBA.csproj", "{B9CF7309-B1B9-4D7A-B58D-16ACE706B90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B972F3-0EDC-4FC2-A38D-725785009B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B972F3-0EDC-4FC2-A38D-725785009B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B972F3-0EDC-4FC2-A38D-725785009B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B972F3-0EDC-4FC2-A38D-725785009B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CF7309-B1B9-4D7A-B58D-16ACE706B90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CF7309-B1B9-4D7A-B58D-16ACE706B90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CF7309-B1B9-4D7A-B58D-16ACE706B90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CF7309-B1B9-4D7A-B58D-16ACE706B90C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF56142E-8022-409D-AA42-82AFA3FCAABF}
+	EndGlobalSection
+EndGlobal
